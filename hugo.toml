@@ -1,0 +1,8 @@
+baseURL: https://protean.us.to/
+languageCode: en-us
+params:
+  contact:
+    email: info@protean.us.to
+    phone: +1 202-555-1212
+  subtitle: The Best Widgets on Earth
+title: ABC Widgets, Inc.
