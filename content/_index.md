@@ -1,3 +1,3 @@
 +++
-author = "Hugo Authors"
+author = "Author List Main Content Dir"
 +++

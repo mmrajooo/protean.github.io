@@ -1,25 +1,14 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "This is the description of the About Page"
+date = "2024-02-28"
+aliases = ["about-us", "contact"]
+author = "Authors of this About Page"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+This is the About Page 
 
-Hugo makes use of a variety of open source projects including:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est nibh, suscipit at interdum in, accumsan quis urna. Sed quis rhoncus ipsum. Praesent imperdiet mollis odio convallis tempus. Nulla turpis est, venenatis ut vehicula nec, pulvinar non sem. Nunc dignissim aliquet metus. Etiam sit amet facilisis libero. Pellentesque dapibus convallis molestie. In hac habitasse platea dictumst. Donec porttitor hendrerit dolor, posuere consectetur mauris finibus id. Etiam interdum fringilla nulla sed fermentum. Sed hendrerit diam nulla, sed auctor mauris fermentum id. Nam iaculis erat lacus, a rhoncus orci pellentesque at. Mauris scelerisque risus ut turpis bibendum, gravida rutrum dui ultricies. Proin id sagittis augue, sit amet molestie sapien. Phasellus tempus rhoncus ornare. Sed dignissim blandit mi tincidunt ultricies.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Suspendisse tincidunt ligula in nisl fringilla, eu dignissim nulla hendrerit. Duis vitae ultricies sapien. Nam scelerisque auctor sapien. Vivamus aliquet dolor non tellus gravida, vitae laoreet lacus ultrices. Donec in faucibus nisl. Aenean bibendum lectus sit amet quam dictum ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porttitor justo ac nunc pellentesque sodales. Morbi eros sem, dapibus porttitor finibus vel, laoreet sed sem. Praesent in volutpat enim. Curabitur dapibus ultrices rhoncus.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
