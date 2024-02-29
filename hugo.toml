@@ -25,10 +25,12 @@ published = false  # Show published data on post page
 key = 0
 name = "instagram"
 url = "https://www.instagram.com/barackobama/"
+icon = "fa-brands fa-instagram"
 
 [[params.social]]
 key = 1
 name = "snapchat"
 url = "https://www.snapchat.com/add/michelleobama"
+icon = "fa-brands fa-snapchat "
 
 
