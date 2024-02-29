@@ -14,34 +14,22 @@ theme = "nightfall"
     url = "about"
 
 [params]
-user = "hello"
-hostname = "gohugo.io"
+user = "print-USERNAME"
+hostname = "print-HOSTNAME"
   [params.author]
-    name = "Hugo Nightfall"  # Website and RSS feed author
-    email = "email@example.com"  # RSS feed email address
+    name = "MAIN PAGE "  # Website and RSS feed author
 
-
-readingTime = true  # Show reading time on post page
-published = true  # Show published data on post page
+readingTime = false  # Show reading time on post page
+published = false  # Show published data on post page
 
 [[params.social]]
 key = 0
-name = "github"
-url = "https://github.com/gohugoio"
+name = "instagram"
+url = "https://www.instagram.com/barackobama/"
 
 [[params.social]]
 key = 1
-name = "twitter"
-url = "https://www.example.com"
-
-[[params.social]]
-key = 2
-name = "linkedin"
-url = "https://www.example.com"
-
-[[params.social]]
-key = 3
-name = "email"
-url = "mailto:email@example.com"
+name = "snapchat"
+url = "https://www.snapchat.com/add/michelleobama"
 
 
