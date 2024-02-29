@@ -17,6 +17,9 @@ theme = "nightfall"
 user = "print-USERNAME"
 hostname = "print-HOSTNAME"
 footerHtml = 'THIS IS THE FOOTER'
+  [params.author]
+    name = "MAIN SITE LABEL"  
+    email = "email@address.com"  
 
 readingTime = false  # Show reading time on post page
 published = false  # Show published data on post page
