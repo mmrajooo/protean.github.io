@@ -2,7 +2,7 @@
     <div class="header">
         <div>
             <a class="terminal" href="{{ .Site.BaseURL }}">
-                <span>@{{ .Site.Params.user }}  </span>
+                <span>$$$ &nbsp;&nbsp; @{{ .Site.Params.user }}  </span>
             </a>
         </div>
         <input class="side-menu" type="checkbox" id="side-menu">
@@ -12,7 +12,7 @@
                 {{ range .Site.Menus.header }}
                 <li>
                     <a href="{{ .URL | absURL }}" title="{{ .Title }}" >
-                        | {{- .Name -}}
+                        |&nbsp; {{- .Name -}}
                     </a>
                 </li>
                 {{ end }}
